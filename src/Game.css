@@ -1,0 +1,22 @@
+body {
+  background-color:darkgreen;
+}
+
+.Game-cards {
+  margin: 40px;
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+.Game-score {
+  font-weight: bold;
+  color: white;
+}
+
+
+.Game-win {
+  font-size: 30px;
+  font-weight: bold;
+  color: gold;
+}
